@@ -1,5 +1,5 @@
-# Twitter Sentiment Analysis
-Twitter-Sentiment-Analysis
+# Sentiment Analysis
+Sentiment-Analysis
 It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization
 
 ## Introduction
@@ -19,8 +19,6 @@ The objective of this task is to detect hate speech in tweets. For the sake of s
 Formally, given a training sample of tweets and labels, where label ‘1’ denotes the tweet is racist/sexist and label ‘0’ denotes the tweet is not racist/sexist, your objective is to predict the labels on the given test dataset.
 
 Note: The evaluation metric from this practice problem is F1-Score.
-
-Take a look at the pictures below depicting two scenarios of an office space – one is untidy and the other is clean and organized.
 
 ## Tweets Preprocessing and Cleaning
 You are searching for a document in this office space. In which scenario are you more likely to find the document easily? Of course, in the less cluttered one because each item is kept in its proper place. The data cleaning exercise is quite similar. If the data is arranged in a structured format then it becomes easier to find the right information.
